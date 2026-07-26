@@ -10,7 +10,7 @@ Go to [Latest Release](https://github.com/Unpredictableiscool/SimonSays/releases
 ## GAME RULES
 The game starts by showing you the 4 colors (red, blue, green and yellow) along with their associated inputs.
 
-Each round you will need to type the correct input combination for each color sequence (e.g ["red", "yellow", "blue"] -> "vqp")
+Each round you will need to type the correct input combination for each color sequence (e.g, ["red", "yellow", "blue"] -> "vqp")
 
 Colors are randomly selected each round and the amount of colors selected are increased every round. The rounds occour infinitly until you lose.
 
